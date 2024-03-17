@@ -11740,7 +11740,9 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   border-color: transparent;
   border: none;
 }
-
+.photo{
+    width: 165px;
+}
 .progress {
   border-radius: 2px;
 }
